@@ -1,5 +1,5 @@
 #WhereIsMyBus
-WhereIsMyBus - alerts when your bus is 3-6 mins away from your bus-stop.
+WhereIsMyBus - visual alert when your bus is 3-6 mins away from your bus stop.
 When not in use, it becomes a #Cheerlights light. Used on Project #WhereIsMyBus (link)
 
 Project Uses: 
