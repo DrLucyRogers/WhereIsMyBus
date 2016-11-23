@@ -1,6 +1,6 @@
 #WhereIsMyBus
 WhereIsMyBus - visual alert when your bus is 3-6 mins away from your bus stop.
-When not in use, it becomes a #Cheerlights light. Used on Project #WhereIsMyBus (link)
+When not in use, it becomes a #Cheerlights light. Used on Project #WhereIsMyBus (https://www.rs-online.com/designspark/whereismybus)
 
 Project Uses: 
   - WeMOS D1 with 8 neopixels connected on pin 4 
